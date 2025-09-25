@@ -8,10 +8,10 @@
         <hr>
         <h3>Tutorial</h3>
         <p>
-          Link do GitHub: <a href="https://github.com/yurimarcon/Vite-pokedex" target="_blank" alt="Link do projeto no GitHub" >/Vite-pokedex</a>
+          Link do GitHub: <a href="https://github.com/dandinCode/PokeVite" target="_blank" alt="Link do projeto no GitHub" >/Vite-pokedex</a>
         </p>
         <p>Me acompanhe no LinkedIn, network é muito importante para área de tecnologia!</p>
-        <a class="btn btn-primary" target="_blank" href="https://link-service.netlify.app/" alt="Minhas mídias sociais">👨‍💻 LinkedIn</a>
+        <a class="btn btn-primary" target="_blank" href="https://www.linkedin.com/in/caio-finotti-7520a7222/" alt="Minhas mídias sociais">👨‍💻 LinkedIn</a>
       </div>
     </div>
   </div>
